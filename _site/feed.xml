@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joe</title>
-    <description>Joe的iOS开发小站</description>
-    <link>http://joe-liu.com/</link>
-    <atom:link href="http://joe-liu.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 May 2016 12:20:29 +0800</pubDate>
-    <lastBuildDate>Mon, 02 May 2016 12:20:29 +0800</lastBuildDate>
+    <title>Louis</title>
+    <description>Louis的iOS开发小站</description>
+    <link>http://louisly.com/</link>
+    <atom:link href="http://louisly.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Jul 2016 13:57:50 +0800</pubDate>
+    <lastBuildDate>Tue, 12 Jul 2016 13:57:50 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -269,8 +269,8 @@ tags: Jekyll Github
 &lt;p&gt;&amp;emsp;&amp;emsp;在写文章的时候，在终端执行&lt;code&gt;bundle exec jekyll serve&lt;/code&gt;，开启Jekyll本地环境，可以一边写博文，一边刷新&lt;code&gt;http://127.0.0.1:4000/&lt;/code&gt;地址查看实时效果。写完提交git，就完事啦。&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Apr 2016 10:11:11 +0800</pubDate>
-        <link>http://joe-liu.com/2016/04/used-jekyll-to-create-my-github-blog/</link>
-        <guid isPermaLink="true">http://joe-liu.com/2016/04/used-jekyll-to-create-my-github-blog/</guid>
+        <link>http://louisly.com/2016/04/used-jekyll-to-create-my-github-blog/</link>
+        <guid isPermaLink="true">http://louisly.com/2016/04/used-jekyll-to-create-my-github-blog/</guid>
         
         <category>Jekyll&amp;emsp;Github</category>
         
