@@ -160,7 +160,8 @@ _containLeftConstraint.constant = _sideslipLeftConstraint.constant = -10;
   还有个细节可能也要在意一下，如果在做手势侧滑按钮漏出一半的过程中，突然电话或者其他事件打断之后，手势状态不一定传`UIGestureRecognizerStateEnded`，也可能是`UIGestureRecognizerStateCancelled`或其他状态，也要做相应的处理判断。
 
 ####5.侧滑按钮显示后的处理
-######1⃣️当按钮显示出来的动画一旦触发的时候，就应该让所有cell以及tableView的交互关闭`[self closeAllOperation];`。动画结束后再开启交互`cell.userInteractionEnabled = YES;`，以便接收pan手势。   
+######1⃣️当按钮显示出来的动画  
+  一旦触发的时候，就应该让所有cell以及tableView的交互关闭`[self closeAllOperation];`。动画结束后再开启交互`cell.userInteractionEnabled = YES;`，以便接收pan手势。   
 
 
 ```

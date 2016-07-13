@@ -5,8 +5,8 @@
     <description>Louis的iOS开发小站</description>
     <link>http://louisly.com/</link>
     <atom:link href="http://louisly.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jul 2016 12:48:43 +0800</pubDate>
-    <lastBuildDate>Wed, 13 Jul 2016 12:48:43 +0800</lastBuildDate>
+    <pubDate>Wed, 13 Jul 2016 12:51:50 +0800</pubDate>
+    <lastBuildDate>Wed, 13 Jul 2016 12:51:50 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -154,7 +154,9 @@ if (pan.state == UIGestureRecognizerStateChanged) {
 
 &lt;h4&gt;5.侧滑按钮显示后的处理&lt;/h4&gt;
 
-&lt;h6&gt;1⃣️当按钮显示出来的动画一旦触发的时候，就应该让所有cell以及tableView的交互关闭&lt;code&gt;[self closeAllOperation];&lt;/code&gt;。动画结束后再开启交互&lt;code&gt;cell.userInteractionEnabled = YES;&lt;/code&gt;，以便接收pan手势。&lt;/h6&gt;
+&lt;h6&gt;1⃣️当按钮显示出来的动画&lt;/h6&gt;
+
+&lt;p&gt;  一旦触发的时候，就应该让所有cell以及tableView的交互关闭&lt;code&gt;[self closeAllOperation];&lt;/code&gt;。动画结束后再开启交互&lt;code&gt;cell.userInteractionEnabled = YES;&lt;/code&gt;，以便接收pan手势。   &lt;/p&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;- (void)showSideslipButton {
     [self closeAllOperation];
     _containLeftConstraint.constant = _sideslipLeftConstraint.constant = -CGRectGetWidth(_sideslipView.frame);

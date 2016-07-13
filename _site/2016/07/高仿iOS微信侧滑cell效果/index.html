@@ -295,7 +295,9 @@ if (pan.state == UIGestureRecognizerStateChanged) {
 
 <h4>5.侧滑按钮显示后的处理</h4>
 
-<h6>1⃣️当按钮显示出来的动画一旦触发的时候，就应该让所有cell以及tableView的交互关闭<code>[self closeAllOperation];</code>。动画结束后再开启交互<code>cell.userInteractionEnabled = YES;</code>，以便接收pan手势。</h6>
+<h6>1⃣️当按钮显示出来的动画</h6>
+
+<p>  一旦触发的时候，就应该让所有cell以及tableView的交互关闭<code>[self closeAllOperation];</code>。动画结束后再开启交互<code>cell.userInteractionEnabled = YES;</code>，以便接收pan手势。   </p>
 <div class="highlight"><pre><code class="language-" data-lang="">- (void)showSideslipButton {
     [self closeAllOperation];
     _containLeftConstraint.constant = _sideslipLeftConstraint.constant = -CGRectGetWidth(_sideslipView.frame);
