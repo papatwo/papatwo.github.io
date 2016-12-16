@@ -1,11 +1,11 @@
 # Basic
-title: Louis
+title: Stray Dog 野良犬
 subtitle:
-welcome_message: <a href="https://github.com/louis-ly" target="_blank"></a>
-description: Louis的iOS开发小站
+welcome_message: <a href="https://github.com/papatwo" target="_blank"></a>
+description: 自分の相談
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://louisly.com"
+url: "http://papatwo.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -40,11 +40,10 @@ comment:
     
 # Social
 social:
-    weibo: louisCoder
-    github: louis-ly
-    twitter: louisCoder
-    gplus: 114566653125205042673
-    mail: 396868934@qq.com
+    weibo: 暴躁学汪papatwo
+    github: papatwo
+    twitter: heki94
+    mail: byw94@hotmail.com
 
 # Google Analytics
 ga:
