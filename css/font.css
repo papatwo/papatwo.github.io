@@ -7,7 +7,6 @@
     url('fonts/icomoon.svg?oj4564#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
-  font-size: 500px;
 }
 
 [class^="icon-"], [class*=" icon-"] {
@@ -17,7 +16,6 @@
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
-  font-size: 500px;
   text-transform: none;
   line-height: 1;
 
@@ -29,4 +27,6 @@
 .icon-douban:before {
   content: "\e900";
 }
+
+.icon-douban.md-48 {font-size:48px;}
 
