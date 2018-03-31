@@ -5,27 +5,31 @@
     <description>自分に相談する</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Mar 2018 21:17:31 +0800</pubDate>
-    <lastBuildDate>Sat, 31 Mar 2018 21:17:31 +0800</lastBuildDate>
+    <pubDate>Sat, 31 Mar 2018 21:42:33 +0800</pubDate>
+    <lastBuildDate>Sat, 31 Mar 2018 21:42:33 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>毛哥晒妹</title>
+        <title>我是咸鱼</title>
         <description>&lt;h2&gt;毛哥晒妹&lt;/h2&gt;
 
 &lt;p&gt;我在家里调了一天的jekyll server设置。&lt;/p&gt;
 
 &lt;p&gt;一口老血……&lt;/p&gt;
 </description>
-        <pubDate>Sun, 18 Dec 2016 00:00:00 +0800</pubDate>
+        <pubDate>Sun, 18 Dec 2016 10:11:11 +0800</pubDate>
         <link>http://localhost:4000/2016/12/%E6%AF%9B%E5%93%A5%E6%99%92%E5%A6%B9/</link>
         <guid isPermaLink="true">http://localhost:4000/2016/12/%E6%AF%9B%E5%93%A5%E6%99%92%E5%A6%B9/</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>Github</category>
         
         
       </item>
     
       <item>
-        <title>图文无关</title>
+        <title>这个是标题</title>
         <description>&lt;h2&gt;图文无关&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;一张照片&lt;/strong&gt; 放上来试试&lt;/p&gt;
@@ -34,9 +38,13 @@
 
 &lt;p&gt;嗯。&lt;/p&gt;
 </description>
-        <pubDate>Fri, 16 Dec 2016 00:00:00 +0800</pubDate>
+        <pubDate>Fri, 16 Dec 2016 10:11:11 +0800</pubDate>
         <link>http://localhost:4000/2016/12/%E5%9B%BE%E6%96%87%E6%97%A0%E5%85%B3/</link>
         <guid isPermaLink="true">http://localhost:4000/2016/12/%E5%9B%BE%E6%96%87%E6%97%A0%E5%85%B3/</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>Github</category>
         
         
       </item>
