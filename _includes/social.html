@@ -4,7 +4,7 @@
   {% if site.social.weibo %}
   <!-- Weibo -->
   <li class="navigation__item">
-    <a href="http://weibo.com/{{site.social.weibo}}" title="@暴躁学汪papatwo 的微博" target="_blank">
+    <a href="http://weibo.com/{{site.social.weibo}}" title="@papatwo 的微博" target="_blank">
       <i class='social fa fa-weibo'></i>
       <span class="label">Weibo</span>
     </a>
@@ -14,7 +14,7 @@
   {% if site.social.github %}
   <!-- Github -->
   <li class="navigation__item">
-    <a href="https://github.com/{{site.social.github}}" title="@{{site.social.github}} 的 Github" target="_blank">
+    <a href="https://github.com/{{site.social.github}}" title="@papatwo 的 Github" target="_blank">
 	  <i class='social fa fa-github'></i>
       <span class="label">Github</span>
     </a>
@@ -24,7 +24,7 @@
   {% if site.social.twitter %}
   <!-- Twitter -->
   <li class="navigation__item">
-    <a href="http://twitter.com/{{site.social.twitter}}" title="@{{site.social.twitter}}" target="_blank">
+    <a href="http://twitter.com/{{site.social.twitter}}" title="@papatwo 的 twiiter" target="_blank">
       <i class='social fa fa-twitter'></i>
       <span class="label">Twitter</span>
     </a>
@@ -34,7 +34,7 @@
   {% if site.social.douban %}
   <!-- douban -->
   <li class="navigation__item">
-    <a href="https://www.douban.com/people/{{site.social.douban}}" rel="author" title="豆瓣" target="_blank">
+    <a href="https://www.douban.com/people/{{site.social.douban}}" rel="author" title="@papatwo 的豆瓣" target="_blank">
 	  <!--img scr="/social_16-128.png" alt="DouBan"-->
 	  <i class='icon-douban'></i>
       <span class="label">豆瓣</span>
@@ -42,13 +42,24 @@
   </li>
   {% endif %}
 
-  <!-- RSS -->
+  {% if site.social.bilibili %}
+  <!-- douban -->
   <li class="navigation__item">
+    <a href="https://space.bilibili.com/{{site.social.bilibili}}" rel="author" title="@papatwo 的B站" target="_blank">
+    <!--img scr="/social_16-128.png" alt="DouBan"-->
+    <i class='social fa fa-bimobject'></i>
+      <span class="label">B站</span>
+    </a>
+  </li>
+  {% endif %}
+
+  <!-- RSS -->
+  <!-- <li class="navigation__item">
     <a href="/feed.xml" rel="author" title="RSS" target="_blank">
       <i class='social fa fa-rss'></i>
       <span class="label">RSS</span>
     </a>
-  </li>
+  </li> -->
 
   {% if site.social.mail %}
   <!-- Email -->
