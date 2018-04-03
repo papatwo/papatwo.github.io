@@ -5,9 +5,26 @@
     <description>自分に相談する</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Mar 2018 21:44:38 +0800</pubDate>
-    <lastBuildDate>Sat, 31 Mar 2018 21:44:38 +0800</lastBuildDate>
+    <pubDate>Mon, 02 Apr 2018 17:47:16 +0800</pubDate>
+    <lastBuildDate>Mon, 02 Apr 2018 17:47:16 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>怪圈</title>
+        <description>&lt;p&gt;两次GRE都失败了，虽然准备的时间很短，但这还是让我又双叒叕陷入了非常严重的自我怀疑，而且more severe than ever before。原来在学校怀疑自己智商有问题也至少是因为学校的知识还算要费点脑筋，但是小学生level的数学题也没做好的我，非常确信自己是个笨蛋，文凭可能是买回来的。&lt;/p&gt;
+
+&lt;p&gt;真是一个怪圈啊，alevel的时候我每天都在想，把申请季熬过去就好了，上了自己理想的大学，以后一定就会好起来了。终于，我如愿以偿的进入了最喜欢的学校，可是在学校里的每一天都因为自己智商不如人和学习很吃力而懊恼，于是变成了每天都在想，不管怎么辛苦，只要拿到first就好了，以后一定不会有比这个更折磨我的事情了。终于，我也如愿以偿的拿到了first，可是毕业之后开始因为自己的能力不如人开始自责，进不了理想的公司，申不到理想的工作岗位，做不了自己喜欢的事情，我渐渐发现其实如今的每一件事都比当初在学校里担忧的考试不够高分、拿不到first、找不到实习都更让人心力交瘁，更让我怀疑自己的能力。&lt;/p&gt;
+
+&lt;p&gt;因为我对未来有憧憬，对自己有期望，所以我无法接受当下的自己，无法接受现状，这可能就是老人们说的眼高手低吧。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Apr 2018 09:26:11 +0800</pubDate>
+        <link>http://localhost:4000/2018/04/%E6%80%AA%E5%9C%88/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/%E6%80%AA%E5%9C%88/</guid>
+        
+        <category>神经病人</category>
+        
+        
+      </item>
     
       <item>
         <title>我是咸鱼</title>
@@ -21,9 +38,7 @@
         <link>http://localhost:4000/2016/12/%E6%AF%9B%E5%93%A5%E6%99%92%E5%A6%B9/</link>
         <guid isPermaLink="true">http://localhost:4000/2016/12/%E6%AF%9B%E5%93%A5%E6%99%92%E5%A6%B9/</guid>
         
-        <category>Jekyll</category>
-        
-        <category>Github</category>
+        <category>test</category>
         
         
       </item>
@@ -42,9 +57,7 @@
         <link>http://localhost:4000/2016/12/%E5%9B%BE%E6%96%87%E6%97%A0%E5%85%B3/</link>
         <guid isPermaLink="true">http://localhost:4000/2016/12/%E5%9B%BE%E6%96%87%E6%97%A0%E5%85%B3/</guid>
         
-        <category>Jekyll</category>
-        
-        <category>Github</category>
+        <category>test</category>
         
         
       </item>
